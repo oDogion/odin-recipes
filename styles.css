@@ -6,6 +6,10 @@ body {
 }
 h1 {
     text-align: center;
+    background-color: rgb(9, 95, 170);
+    padding: 10px;
+    margin: 30px;
+    border: 5px solid rgb(0, 0, 255)
 }
 ul {
     text-align: left;
@@ -20,34 +24,14 @@ li {
 button {
     font-size: 24px;
 }
-.desc {
-    background-color: rgb(9, 95, 170);
-    padding: 20px;
-    margin: 30px;
-}
-.ing {
-    background-color:rgb(9, 95, 170);
-    padding: 20px;
-    margin: 30px;
-    display: inline-block;
-}
-.dire {
-    background-color: rgb(9, 95, 170);
-    padding: 20px;
-    margin: 30px;
-    display: inline-block;
-}
 img {
     margin: auto;
     display: block;
 }
-.index {
+div {
     background-color: rgb(9, 95, 170);
     padding: 20px;
     margin: 30px;
-}
-h1 {
-    background-color: rgb(9, 95, 170);
-    padding: 10px;
-    margin: 30px;
+    display: inline-block;
+    border: 5px solid rgb(0, 0, 255)
 }
